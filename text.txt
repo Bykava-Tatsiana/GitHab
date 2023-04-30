@@ -1,0 +1,13 @@
+bug_report:
+short_description
+project
+version
+bug_severity
+priority
+status
+author
+perfomer
+steps
+actual_result
+expected_result
+additions
