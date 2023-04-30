@@ -1,0 +1,7 @@
+Examination - result
+file creation - passed
+opening a file - failed
+saving a document - passed
+document printing - passed
+deleting a document - passed
+
